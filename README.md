@@ -49,7 +49,7 @@ Erik has spent most of his Architectural career in Queensland. He has over 15 ye
 - Apr 2003 – Jul 2003 (4 months)
 - Adelaide, South Australia, Australia
 
-#### K.K. GABA
+#### GABA
 
 - Private Lesson Instructor
 - Nov 2001 – Nov 2002 (1 yr)
