@@ -19,4 +19,4 @@ This Github account is for Erik's geekier hobby interests and personal projects.
 - Erik is currently working on a combination of Hesiod, DNSSEC, SSHFP and OpenPGP to create a distributed, signature backed, hardware 2FA name and auth single sign on 'system', without Kerberos or ldap, using existing commodity code and infrastructure as much as possible;
 - Erik is currently learning about Kerberos, ldap, DNS, OpenPGP cards and Git;
 - Erik is looking to collaborate on a KISS Linux package repository that updates then pulls from local git repositories under /usr/src/ rather than downloading full source each time. Step 2 is minimal i18n and l10n bolt on packages to ootb kiss linux;
-- Erik is looking for help with an elegant, simple and secure physical console login with an openpgp card based private key, without mounting home folders until after authentication has occured and without any unionfs type fragile lunacy;
+- Erik is looking for help with an elegant, simple and secure physical console login with an openpgp card based private key, without a requirement to access home folders in any way until after authentication has occured;
