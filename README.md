@@ -1,4 +1,4 @@
-# About
+### About
 
 Erik is an Architect with extensive experience across a diverse range of project types. His ability to work across all phases of a project from design concept right through to contract documentation and advice during construction makes him a well rounded and highly versatile Architect.
 
