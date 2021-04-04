@@ -1,6 +1,4 @@
-# Erik Lundberg
-
-## About
+# About
 
 Erik is an Architect with extensive experience across a diverse range of project types. His ability to work across all phases of a project from design concept right through to contract documentation and advice during construction makes him a well rounded and highly versatile Architect.
 
@@ -8,7 +6,7 @@ Erik delivers high quality designs that reflect an affinity for clean, simple an
 
 Erik has spent most of his Architectural career in Queensland. He has over 15 years experience in private residential, retail, multi-residential and commercial projects across a range of sizes and complexities, with a tendency towards major projects for commercial developers and large builders. 
 
-## Hobbies
+# Hobbies
 
 This Github account is for Erik's geekier hobby interests and personal projects. These projects are not Erik's day job. These repositories and projects are totally and completely unrelated to Erik's professional role at Cottee Parker Architects:
 
