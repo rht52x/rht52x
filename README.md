@@ -6,63 +6,107 @@ Erik delivers high quality designs that reflect an affinity for clean, simple an
 
 Erik has spent most of his Architectural career in Queensland. He has over 15 years experience in private residential, retail, multi-residential and commercial projects across a range of sizes and complexities, with a tendency towards major projects for commercial developers and large builders. 
 
-## Experience
+### Experience
 
-### Cottee Parker Architects
+#### Cottee Parker Architects
 - Senior Architect
 - 2019 – Present
 - Brisbane, Queensland, Australia
  
-### Powe Architects
+#### Powe Architects
 
 - Senior Architect
-- Dates EmployedApr 2016 – Nov 2019
-- 3 yrs 8 mos
+- Apr 2016 – Nov 2019 (3 years 8 months)
 - Brisbane, Queensland, Australia
 
-### ML Design
+#### ML Design
 
 - Architect, Project Leader
-- Sep 2008 – Mar 2016
-- 7 yrs 7 mos
+- Sep 2008 – Mar 2016 (7 years 7 months)
 - Brisbane, Queensland, Australia
 
-### LVO Pty Ltd
+#### LVO' Architecture
 
 - Architect
-- Mar 2007 – Jul 2008
-- 1 yr 5 mos
+- Mar 2007 – Jul 2008 (1 year 5 months)
 - Brisbane, Queensland, Australia
 
-### Rice Daubney
+#### Rice Daubney
 
 - Architectural Graduate
-- Mar 2006 – Mar 2007
-- 1 yr
+- Mar 2006 – Mar 2007 (1 year)
 - Brisbane, Queensland, Australia
 
-### Cyclone Studios
+#### Cyclone Studios
 
 - Architectural Graduate
-- Apr 2004 – Mar 2006
-- 2 yrs
+- Apr 2004 – Mar 2006 (2 years)
 - Airlie Beach, Queensland, Australia
 
-### Hassell
+#### Hassell
 
 - Architecture Student
-- Apr 2003 – Jul 2003
-- 4 months
+- Apr 2003 – Jul 2003 (4 months)
 - Adelaide, South Australia, Australia
 
-### K.K. GABA
+#### K.K. GABA
 
 - Private Lesson Instructor
-- Nov 2001 – Nov 2002
-- 1 yr
+- Nov 2001 – Nov 2002 (1 yr)
 - Shibuya, Tokyo, Japan
 
-## Hobbies
+### Education
+
+#### University of Adelaide
+- Bachelor of Architecture (BArch) Architecture
+- 2000 – 2003
+- Activities and Societies:
+    - RAIA (SA) Education Standing Committee: Student Rep. (1999-2001)
+    - School Board: Student Rep. (1997-2000)
+    - School Advisory Board: Student Rep. (1997-2000)
+    - Operations Committee: Student Rep. (1997-2000)
+    - Workplace Health & Safety Committee: Student Rep. (1997-2001)
+    - Architecture Student's Association: 5th Year Rep. (2001)
+    - Architecture Student's Association: 4th Year Rep. (2000)
+ 
+#### University of Adelaide
+- Bachelor of Design Studies (BDesSt) Architecture
+- 1997 – 1999
+- Activities and Societies:
+    - RAIA (SA) Education Standing Committee: Student Rep. (1999-2001)
+    - School Board: Student Rep. (1997-2000)
+    - School Advisory Board: Student Rep. (1997-2000)
+    - Operations Committee: Student Rep. (1997-2000)
+    - Workplace Health & Safety Committee: Student Rep. (1997-2001)
+    - Architecture Student's Association: President (1999)
+    - Architecture Student's Association: 2nd Year Rep. (1998)
+ 
+#### St Peter's College
+ - South Australian Certificate of Education (SACE) Physics, Chemistry, Biology, Mathematics, English Studies
+ - 1993 – 1996
+ - Activities and Societies:
+     - Captained the 2nd XI soccer team 1996;
+     - Played water polo, 1996;
+     - Rowed in the 1st VIII, 1995;
+     - Rowed in the 2nd VIII, 1994;
+     - Rowed in the U15D coxed four 1993;
+     - Exploration Society member;
+     - Muting Club member;
+     - Chapel Choir member;
+     - Farr house member (symbols).
+ 
+#### Canberra Grammar School
+ - 1985 – 1992
+ - Activities and Societies:
+     - Special Music Class;
+     - String Orchestra;
+     - School Choir;
+     - Orienteering;
+     - Swimming;
+     - Soccer;
+     - Rowing
+
+### Hobbies
 
 This Github account is for Erik's geekier hobby interests and personal projects. These projects are not Erik's day job. These repositories and projects are totally and completely unrelated to Erik's professional role at Cottee Parker Architects:
 
