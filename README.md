@@ -8,12 +8,15 @@ Erik has spent most of his Architectural career in Queensland. He has over 15 ye
 
 ## Experience
 
-Cottee Parker Architects
-{:.Employment}
+### Cottee Parker Architects
+{:.company}
 
- : Senior Architect
- : 2019 – Present
- : Brisbane, Queensland, Australia
+- Senior Architect
+ {:.title}
+- 2019 – Present
+ {:.dates}
+- Brisbane, Queensland, Australia
+ {:.location}
  
  Powe Architects
 
