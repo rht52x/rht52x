@@ -10,58 +10,58 @@ Erik has spent most of his Architectural career in Queensland. He has over 15 ye
 
 Cottee Parker Architects
 
- : Senior Architect {:.title}
- : 2019 – Present  {:.dates}
- : Brisbane, Queensland, Australia  {:.location}
+ : Senior Architect{:.title}
+ : 2019 – Present{:.dates}
+ : Brisbane, Queensland, Australia{:.location}
 
 Powe Architects
 
- : Senior Architect {:.title}
- : Dates EmployedApr 2016 – Nov 2019  {:.dates}
- : 3 yrs 8 mos {:.duration}
- : Brisbane, Queensland, Australia  {:.location}
+ : Senior Architect{:.title}
+ : Dates EmployedApr 2016 – Nov 2019{:.dates}
+ : 3 yrs 8 mos{:.duration}
+ : Brisbane, Queensland, Australia{:.location}
 
 ML Design
 
- : Architect, Project Leader {:.title}
- : Sep 2008 – Mar 2016  {:.dates}
- : 7 yrs 7 mos {:.duration}
- : Brisbane, Queensland, Australia  {:.location}
+ : Architect, Project Leader{:.title}
+ : Sep 2008 – Mar 2016{:.dates}
+ : 7 yrs 7 mos{:.duration}
+ : Brisbane, Queensland, Australia{:.location}
 
 LVO Pty Ltd
 
- : Architect {:.title}
- : Mar 2007 – Jul 2008  {:.dates}
- : 1 yr 5 mos {:.duration}
- : Brisbane, Queensland, Australia  {:.location}
+ : Architect{:.title}
+ : Mar 2007 – Jul 2008{:.dates}
+ : 1 yr 5 mos{:.duration}
+ : Brisbane, Queensland, Australia{:.location}
 
 Rice Daubney
 
- : Architectural Graduate {:.title}
- : Mar 2006 – Mar 2007  {:.dates}
- : 1 yr {:.duration}
- : Brisbane, Queensland, Australia  {:.location}
+ : Architectural Graduate{:.title}
+ : Mar 2006 – Mar 2007{:.dates}
+ : 1 yr{:.duration}
+ : Brisbane, Queensland, Australia{:.location}
 
 Cyclone Studios
 
- : Architectural Graduate {:.title}
- : Apr 2004 – Mar 2006  {:.dates}
- : 2 yrs {:.duration}
- : Airlie Beach, Queensland, Australia  {:.location}
+ : Architectural Graduate{:.title}
+ : Apr 2004 – Mar 2006{:.dates}
+ : 2 yrs{:.duration}
+ : Airlie Beach, Queensland, Australia{:.location}
 
 Hassell
 
- : Architecture Student {:.title}
- : Apr 2003 – Jul 2003  {:.dates}
- : 4 mos {:.duration}
- : Adelaide, South Australia, Australia  {:.location}
+ : Architecture Student{:.title}
+ : Apr 2003 – Jul 2003{:.dates}
+ : 4 mos{:.duration}
+ : Adelaide, South Australia, Australia{:.location}
 
 K.K. GABA
 
- : Private Lesson Instructor {:.title}
- : Nov 2001 – Nov 2002  {:.dates}
- : 1 yr {:.duration}
- : Shibuya, Tokyo, Japan  {:.location}
+ : Private Lesson Instructor{:.title}
+ : Nov 2001 – Nov 2002{:.dates}
+ : 1 yr{:.duration}
+ : Shibuya, Tokyo, Japan{:.location}
 
 ## Hobbies
 
