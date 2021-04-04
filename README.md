@@ -16,8 +16,8 @@ Cottee Parker Architects
  {:.dates}
  : Brisbane, Queensland, Australia
  {:.location}
-
-Powe Architects
+ 
+ Powe Architects
 
  : Senior Architect
  {:.title}
