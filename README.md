@@ -9,91 +9,58 @@ Erik has spent most of his Architectural career in Queensland. He has over 15 ye
 ## Experience
 
 ### Cottee Parker Architects
-{:.company}
+- Senior Architect
+- 2019 – Present
+- Brisbane, Queensland, Australia
+ 
+### Powe Architects
 
 - Senior Architect
- {:.title}
-- 2019 – Present
- {:.dates}
+- Dates EmployedApr 2016 – Nov 2019
+- 3 yrs 8 mos
 - Brisbane, Queensland, Australia
- {:.location}
- 
- Powe Architects
 
- : Senior Architect
- {:.title}
- : Dates EmployedApr 2016 – Nov 2019
- {:.dates}
- : 3 yrs 8 mos
- {:.duration}
- : Brisbane, Queensland, Australia
- {:.location}
+### ML Design
 
-ML Design
+- Architect, Project Leader
+- Sep 2008 – Mar 2016
+- 7 yrs 7 mos
+- Brisbane, Queensland, Australia
 
- : Architect, Project Leader
- {:.title}
- : Sep 2008 – Mar 2016
- {:.dates}
- : 7 yrs 7 mos
- {:.duration}
- : Brisbane, Queensland, Australia
- {:.location}
+### LVO Pty Ltd
 
-LVO Pty Ltd
+- Architect
+- Mar 2007 – Jul 2008
+- 1 yr 5 mos
+- Brisbane, Queensland, Australia
 
- : Architect
- {:.title}
- : Mar 2007 – Jul 2008
- {:.dates}
- : 1 yr 5 mos
- {:.duration}
- : Brisbane, Queensland, Australia
- {:.location}
+### Rice Daubney
 
-Rice Daubney
+- Architectural Graduate
+- Mar 2006 – Mar 2007
+- 1 yr
+- Brisbane, Queensland, Australia
 
- : Architectural Graduate
- {:.title}
- : Mar 2006 – Mar 2007
- {:.dates}
- : 1 yr
- {:.duration}
- : Brisbane, Queensland, Australia
- {:.location}
+### Cyclone Studios
 
-Cyclone Studios
+- Architectural Graduate
+- Apr 2004 – Mar 2006
+- 2 yrs
+- Airlie Beach, Queensland, Australia
 
- : Architectural Graduate
- {:.title}
- : Apr 2004 – Mar 2006
- {:.dates}
- : 2 yrs
- {:.duration}
- : Airlie Beach, Queensland, Australia
- {:.location}
+### Hassell
 
-Hassell
+- Architecture Student
+- Apr 2003 – Jul 2003
+- 4 months
+- Adelaide, South Australia, Australia
 
- : Architecture Student
- {:.title}
- : Apr 2003 – Jul 2003
- {:.dates}
- : 4 mos
- {:.duration}
- : Adelaide, South Australia, Australia
- {:.location}
+### K.K. GABA
 
-K.K. GABA
-
- : Private Lesson Instructor
- {:.title}
- : Nov 2001 – Nov 2002
- {:.dates}
- : 1 yr
- {:.duration}
- : Shibuya, Tokyo, Japan
- {:.location}
+- Private Lesson Instructor
+- Nov 2001 – Nov 2002
+- 1 yr
+- Shibuya, Tokyo, Japan
 
 ## Hobbies
 
